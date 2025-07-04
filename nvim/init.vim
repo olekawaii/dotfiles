@@ -1,4 +1,4 @@
-set number
+"set number
 colorscheme wildcharm
 set tabstop=4
 "set autoindent
